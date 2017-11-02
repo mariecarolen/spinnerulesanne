@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpinnerÜlesanne</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_next">NextActivity</string>
+    <string-array name="Gender">
+        <item >Male</item>
+        <item >Female</item>
+    </string-array>
+    <string-array name="Android_Version">
+    <item >JellyBean</item>
+    <item >KitKat</item>
+    <item >Lollipop</item>
+    <item >IceCreamSandwich</item>
+    </string-array>
+</resources>
